@@ -1,9 +1,9 @@
 ## Learning Git/ Github ##
 Git is a Distributed Version Control System. Whereas Github hosts GIT Repositories.
 ### Steps to work on Git ###
-**Make the folder a Git Repository**
-Step 1: >> git init (Create a .git folder which identifies that it's a git repository.)
-**Check the Status**
+**Make the folder a Git Repository**/
+Step 1: >> git init (Create a .git folder which identifies that it's a git repository.)/
+**Check the Status**/
 Step 2: >> git status
 **Add the files to Stagging Area**
 Step 3: >> git add <file_name>/ . (. is for add all the files)
