@@ -16,7 +16,7 @@ Step 5: >> git push origin <branch_name>
 Before Push to github we need to set the branch and destination(remote repo).  
 #### Branching ####
 **Check Branch**  
->git branch  
+'git branch'  
 **Set Branch**  
 >git branch -M main (-M means Rename. Only needed for first time.)  
 **Create a new Branch**  
