@@ -16,11 +16,11 @@ Step 5: >> git push origin <branch_name>
 Before Push to github we need to set the branch and destination(remote repo).  
 #### Branching ####
 **Check Branch**  
-> git branch  
+>git branch  
 **Set Branch**  
-> git branch -M main (-M means Rename. Only needed for first time.)  
+>git branch -M main (-M means Rename. Only needed for first time.)  
 **Create a new Branch**  
-> git branch <branch_name>  
+>git branch <branch_name>  
 **Merge the Branch**  
 Want to merge a sub_branch to main branch.  
 We should present in the main branch then following  
